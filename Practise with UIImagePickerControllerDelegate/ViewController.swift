@@ -97,7 +97,12 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         textField.text = ""
         if textField == bottomTextField {
             subscribeToKeyboardNotifications()
+        } else {
+            unsubscribeFromKeyboardNotifications()
         }
+        
+        print("image: \(imagePickerView.frame)")
+        print("text: \(topTextField.frame)")
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {

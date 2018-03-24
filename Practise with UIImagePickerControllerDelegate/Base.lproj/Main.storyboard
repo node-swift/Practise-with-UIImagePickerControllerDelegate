@@ -59,10 +59,10 @@
                             <constraint firstItem="GmA-BW-l2T" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="OCc-pg-fOE"/>
                             <constraint firstItem="80F-he-Rh5" firstAttribute="bottom" secondItem="GmA-BW-l2T" secondAttribute="bottom" id="OcA-YA-Ee2"/>
                             <constraint firstItem="GmA-BW-l2T" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="PW6-uF-UM1"/>
-                            <constraint firstItem="uMb-ko-5zW" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="98" id="TUV-cQ-gEb"/>
                             <constraint firstItem="uMb-ko-5zW" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Y6V-Di-d6W"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="80F-he-Rh5" secondAttribute="trailing" id="fEg-re-iHl"/>
                             <constraint firstItem="1RV-xm-epp" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="foz-yn-bFd"/>
+                            <constraint firstItem="80F-he-Rh5" firstAttribute="top" secondItem="uMb-ko-5zW" secondAttribute="bottom" constant="-150" id="sCL-R1-6tK"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
