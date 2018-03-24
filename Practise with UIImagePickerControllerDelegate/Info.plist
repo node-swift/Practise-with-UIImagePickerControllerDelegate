@@ -45,5 +45,7 @@
 	<string>Just testing</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Just testing</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Just testing add meme </string>
 </dict>
 </plist>
